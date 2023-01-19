@@ -1,0 +1,12 @@
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW.DataAccess\bin\Debug\net6.0\API_WORKFLOW.DataAccess.deps.json
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW.DataAccess\bin\Debug\net6.0\API_WORKFLOW.DataAccess.dll
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW.DataAccess\bin\Debug\net6.0\API_WORKFLOW.DataAccess.pdb
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW.DataAccess\obj\Debug\net6.0\API_WORKFLOW.DataAccess.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW.DataAccess\obj\Debug\net6.0\API_WORKFLOW.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW.DataAccess\obj\Debug\net6.0\API_WORKFLOW.DataAccess.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW.DataAccess\obj\Debug\net6.0\API_WORKFLOW.DataAccess.AssemblyInfo.cs
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW.DataAccess\obj\Debug\net6.0\API_WORKFLOW.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW.DataAccess\obj\Debug\net6.0\API_WORKFLOW.DataAccess.dll
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW.DataAccess\obj\Debug\net6.0\refint\API_WORKFLOW.DataAccess.dll
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW.DataAccess\obj\Debug\net6.0\API_WORKFLOW.DataAccess.pdb
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW.DataAccess\obj\Debug\net6.0\ref\API_WORKFLOW.DataAccess.dll

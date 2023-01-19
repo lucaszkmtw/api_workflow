@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-configuration-2.2" assembly="API_WORKFLOW.DataAccess" namespace="API_WORKFLOW.DataAccess.Models">
+	<class name="Usuarios">
+		<id name="ID">
+			<generator class="native"/>
+		</id>
+		<property name="Email"/>
+		<property name="Password"/>
+		
+	</class>
+	
+</hibernate-mapping>

@@ -1,0 +1,12 @@
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW. BusinessLogic\bin\Debug\net6.0\API_WORKFLOW. BusinessLogic.deps.json
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW. BusinessLogic\bin\Debug\net6.0\API_WORKFLOW. BusinessLogic.dll
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW. BusinessLogic\bin\Debug\net6.0\API_WORKFLOW. BusinessLogic.pdb
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW. BusinessLogic\obj\Debug\net6.0\API_WORKFLOW. BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW. BusinessLogic\obj\Debug\net6.0\API_WORKFLOW. BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW. BusinessLogic\obj\Debug\net6.0\API_WORKFLOW. BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW. BusinessLogic\obj\Debug\net6.0\API_WORKFLOW. BusinessLogic.AssemblyInfo.cs
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW. BusinessLogic\obj\Debug\net6.0\API_WORKFLOW. BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW. BusinessLogic\obj\Debug\net6.0\API_WORKFLOW. BusinessLogic.dll
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW. BusinessLogic\obj\Debug\net6.0\refint\API_WORKFLOW. BusinessLogic.dll
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW. BusinessLogic\obj\Debug\net6.0\API_WORKFLOW. BusinessLogic.pdb
+C:\Users\lucas\source\repos\API_WORKFLOW\API_WORKFLOW. BusinessLogic\obj\Debug\net6.0\ref\API_WORKFLOW. BusinessLogic.dll
